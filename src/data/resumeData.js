@@ -6,7 +6,7 @@ export const profile = {
   location: 'Coimbatore, India',
   email: 'siyamalasrinivasan22@gmail.com',
   phone: '+91 9361539989',
-  linkedin: 'https://linkedin.com/in/siyamala-s',
+  linkedin: 'https://www.linkedin.com/in/siyamala-srinivasan',
   github: 'https://github.com/Siyam936153',
   resumeFile: '/Siyamala_S_Resume.pdf',
   bio: 'Final-year Electronics and Communication Engineering student (CGPA: 8.86) with a strong foundation in Java, OOP, and full-stack development (React, Spring Boot). SAP Certified Back-End Developer (ABAP Cloud) with hands-on project experience in SAP RAP, Fiori, and BTP. AWS Cloud Practitioner and Microsoft Azure Fundamentals (AZ-900) certified — eager to apply strong problem-solving skills and a full-stack technical foundation as an Associate Software Engineer.',
